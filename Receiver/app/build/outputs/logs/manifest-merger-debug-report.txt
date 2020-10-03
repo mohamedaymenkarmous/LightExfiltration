@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\35d90229a6721557d1c3c07573a6cb55\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\9618e4771644af83034a677d1455ee67\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\2bf4411d7b49fe738961a567d576f4d2\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\5ca262859c3133a4aa973ae959ce2061\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\4b7ccbf1545389655242b31b69a0c2ef\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a6d7a6d9fa233c347f5a967199f8ffbd\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\caea093eaa3f4ab10bb21ae1108e4fce\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\5772398f154fbb421660eae656082fcd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\25a86418cd5f5fb0e0fa98b4559da7df\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\1e19b627048259720a9293cff54eca4b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\041bb1c3a0dbc07996e40bbb615a03fc\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\457b24bb365487f19b919b9304bfe494\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\6aba77ce87b62d8347ca6f06e6145185\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a7f62cef6f2580716be1fbc0bf2d19f1\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\058e31eaf44c56365f3b30c5b91c8134\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\844e6d8d110901814b6cf2c0e58db777\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\ce24e7fa4f5089420697906de566d165\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a89fd51e9582eccdee29149516da0a3b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\65ffefdcdf6ac37c61296df8feb5c9c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\217472ccd08ea4a85c967983d0668f8b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\31884234bbfc18c9669057802122ca0d\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\13f6a8a8ac08da7eb6eca2e6990d51f4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\be7a7dfb68705840901dbd39fdfd186a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\43a209a1574b998fc4c3256029348641\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\1653319b2d58e30ed9313b0c2df5947e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:9:5-22:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\058e31eaf44c56365f3b30c5b91c8134\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\058e31eaf44c56365f3b30c5b91c8134\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:14:9-40
+activity#light_exfiltration_receiver_v1.Camera2VideoImageActivity
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:15:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\35d90229a6721557d1c3c07573a6cb55\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\35d90229a6721557d1c3c07573a6cb55\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\9618e4771644af83034a677d1455ee67\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\9618e4771644af83034a677d1455ee67\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\2bf4411d7b49fe738961a567d576f4d2\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\2bf4411d7b49fe738961a567d576f4d2\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\5ca262859c3133a4aa973ae959ce2061\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\5ca262859c3133a4aa973ae959ce2061\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\4b7ccbf1545389655242b31b69a0c2ef\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\4b7ccbf1545389655242b31b69a0c2ef\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a6d7a6d9fa233c347f5a967199f8ffbd\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a6d7a6d9fa233c347f5a967199f8ffbd\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\caea093eaa3f4ab10bb21ae1108e4fce\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\caea093eaa3f4ab10bb21ae1108e4fce\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\5772398f154fbb421660eae656082fcd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\5772398f154fbb421660eae656082fcd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\25a86418cd5f5fb0e0fa98b4559da7df\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\25a86418cd5f5fb0e0fa98b4559da7df\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\1e19b627048259720a9293cff54eca4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\1e19b627048259720a9293cff54eca4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\041bb1c3a0dbc07996e40bbb615a03fc\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\041bb1c3a0dbc07996e40bbb615a03fc\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\457b24bb365487f19b919b9304bfe494\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\457b24bb365487f19b919b9304bfe494\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\6aba77ce87b62d8347ca6f06e6145185\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\6aba77ce87b62d8347ca6f06e6145185\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a7f62cef6f2580716be1fbc0bf2d19f1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a7f62cef6f2580716be1fbc0bf2d19f1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\058e31eaf44c56365f3b30c5b91c8134\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\058e31eaf44c56365f3b30c5b91c8134\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\844e6d8d110901814b6cf2c0e58db777\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\844e6d8d110901814b6cf2c0e58db777\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\ce24e7fa4f5089420697906de566d165\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\ce24e7fa4f5089420697906de566d165\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a89fd51e9582eccdee29149516da0a3b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\a89fd51e9582eccdee29149516da0a3b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\65ffefdcdf6ac37c61296df8feb5c9c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\65ffefdcdf6ac37c61296df8feb5c9c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\217472ccd08ea4a85c967983d0668f8b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\217472ccd08ea4a85c967983d0668f8b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\31884234bbfc18c9669057802122ca0d\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\31884234bbfc18c9669057802122ca0d\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\13f6a8a8ac08da7eb6eca2e6990d51f4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\13f6a8a8ac08da7eb6eca2e6990d51f4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\be7a7dfb68705840901dbd39fdfd186a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\be7a7dfb68705840901dbd39fdfd186a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\43a209a1574b998fc4c3256029348641\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\43a209a1574b998fc4c3256029348641\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\1653319b2d58e30ed9313b0c2df5947e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\1653319b2d58e30ed9313b0c2df5947e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
