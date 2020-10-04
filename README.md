@@ -6,7 +6,7 @@
 
 
 ## Introduction
-This project was created during an [IoT challenge](https://www.hackfest.tn/iot-challenge/) ([backup description in case the first link is unavailable](https://web.archive.org/web/20201004004507/https://www.hackfest.tn/iot-challenge/)) ran in the [Hackfest](https://www.hackfest.tn/) event.
+This project was created during an [IoT challenge](https://www.hackfest.tn/iot-challenge/) ([backup description in case the first link is unavailable](https://web.archive.org/web/20201004004507/https://www.hackfest.tn/iot-challenge/)) ran in the [Hackfest](https://www.hackfest.tn/) event with the name "Data Exfiltration Via Smart Plugs".
 
 
 ## Description
