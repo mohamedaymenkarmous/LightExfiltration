@@ -6,50 +6,66 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="28"
-8-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+8-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
+9-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" />
-11-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:5:5-65
-11-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:5:22-62
+11-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:5:22-62
 12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-12-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:6:5-71
-12-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:6:22-68
+12-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:6:5-71
+12-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:6:22-68
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:7:5-81
-13-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:7:22-78
+13-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:7:22-78
 14
 15    <application
-15-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:9:5-22:19
+15-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:9:5-28:19
 16        android:allowBackup="true"
-16-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:10:9-35
+16-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:10:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:22:18-86
+17-->[androidx.core:core:1.0.1] C:\Users\Empereur\.gradle\caches\transforms-2\files-2.1\c98024bd6086dde2720bfd2ef053a1a0\core-1.0.1\AndroidManifest.xml:22:18-86
 18        android:debuggable="true"
 19        android:extractNativeLibs="false"
 20        android:icon="@mipmap/ic_launcher"
-20-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:11:9-43
+20-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:11:9-43
 21        android:label="@string/app_name"
-21-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:12:9-41
+21-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:12:9-41
 22        android:supportsRtl="true"
-22-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:13:9-35
+22-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:13:9-35
 23        android:theme="@style/AppTheme" >
-23-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:14:9-40
-24        <activity android:name="light_exfiltration_receiver_v1.Camera2VideoImageActivity" >
-24-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:15:9-21:20
-24-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:15:19-90
-25            <intent-filter>
-25-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:16:13-20:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:17:17-69
-26-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:17:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:19:17-77
-28-->C:\Users\Empereur\Downloads\simple-camera-android-master\commit1\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:19:27-74
-29            </intent-filter>
-30        </activity>
-31    </application>
-32
-33</manifest>
+23-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:14:9-40
+24        <activity
+24-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:15:9-21:20
+25            android:name="com.example.light_exfiltration_receiver_v1.SplashActivity"
+25-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:15:19-49
+26            android:theme="@style/SplashTheme" >
+26-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:16:13-47
+27            <intent-filter>
+27-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:17:13-20:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:18:17-69
+28-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:19:17-77
+30-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:19:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:22:9-27:20
+34            android:name="com.example.light_exfiltration_receiver_v1.LightExfiltrationReceiverActivity"
+34-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:22:19-68
+35            android:icon="@mipmap/ic_launcher"
+35-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:24:13-47
+36            android:label="@string/app_name"
+36-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:23:13-45
+37            android:screenOrientation="portrait"
+37-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:25:13-49
+38            android:theme="@style/AppTheme" >
+38-->C:\Users\Empereur\Downloads\simple-camera-android-master\Light-exfiltration-receiver\app\src\main\AndroidManifest.xml:26:13-44
+39        </activity>
+40    </application>
+41
+42</manifest>
