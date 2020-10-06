@@ -1,0 +1,8 @@
+{
+  "name": "Light-exfiltration-emtter",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "tuyapi": "^5.3.2"
+  }
+}
