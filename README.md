@@ -16,7 +16,7 @@ This project includes a study and a PoC regarding the possibility of the data ex
 - An [emitter](https://github.com/mohamedaymenkarmous/LightExfiltration/tree/main/Emitter) that is supposed to exfiltrate the data using the smart plug's lamp.
 - A [receiver](https://github.com/mohamedaymenkarmous/LightExfiltration/tree/main/Receiver) that is supposed to use what the smart plug's lamp have shown to extract the exfiltrated data.
 
-The "[report.pdf](Reporting%2BDiagrams/The%20Emperors%20-%20report%20(1).pdf)" file describes in detail how the emitter and the receiver works.
+The "[report.pdf](light-exfiltration-report.pdf)" file describes in detail how the emitter and the receiver works.
 
 
 ## Demo
