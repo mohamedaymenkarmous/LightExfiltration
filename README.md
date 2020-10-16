@@ -18,6 +18,21 @@ This project includes a study and a PoC regarding the possibility of the data ex
 
 The "[report.pdf](light-exfiltration-report.pdf)" file describes in detail how the emitter and the receiver works.
 
+## Workflow diagrams
+### Data exfiltration
+<p align="center">
+<img src="Diagrams/Data-exfiltration-using-light---data-exfiltration-workflow.png" width="15%"/>
+</p>
+
+### Emitter
+<p align="center">
+<img src="Diagrams/Data-exfiltration-using-light---emitter-workflow.png" width="45%"/>
+</p>
+
+### Receiver
+<p align="center">
+<img src="Diagrams/Data-exfiltration-using-light---receiver-workflow.png" width="55%"/>
+</p>
 
 ## Demo
 Using the smart plug, the [emitter](https://github.com/mohamedaymenkarmous/LightExfiltration/tree/main/Emitter) and the [receiver](https://github.com/mohamedaymenkarmous/LightExfiltration/tree/main/Receiver), we have shared some demonstration examples showing how the data could be exfiltrated using the light width different colors and different parameters and how the exfiltrated data was retrieved synchronously (real time using the mobile application) and asnychrnously (offline using the Python script):
