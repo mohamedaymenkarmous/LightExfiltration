@@ -365,10 +365,12 @@ class VideoDecoder:
         self.colorChanging=True
       if self.advancedMode==False and self.timer>0 and self.nextResumeTime<=self.sec:
         self.currentTime=self.sec
-        self.nextResumeTime= float(self.currentTime+(self.timer*1.25))
+        self.nextResumeTime= float(self.currentTime+(self.timer*2*1.25))
+      #print(self.advancedMode==False,len(self.hsv) >0,(abs(newHsv[1] - self.statedHsv[1]) > self.minSaturation / 100),newHsv[1],self.statedHsv[1],self.minSaturation,abs(newHsv[1] - self.statedHsv[1]),self.reconDone==True)
       if self.advancedMode==False and len(self.hsv) >0 and (abs(newHsv[1] - self.statedHsv[1]) > self.minSaturation / 100) and self.reconDone==True:
         self.currentTime=self.sec
-        self.nextResumeTime= float(self.currentTime+(self.timer*1.25))
+        self.nextResumeTime= float(self.currentTime+(self.timer*2*1.25))
+        #print("next timer",self.currentTime,"+",(self.timer*2*1.25),self.nextResumeTime)
         self.previousTime=self.currentTime
     # Stable color means the difference between the previous and the current colors is less than the minSaturation
     elif self.colorChanging==True and (abs(newHsv[1] - self.hsv[1]) < self.minSaturation / 100 and (b7 or b8 or b9)):
@@ -400,16 +402,16 @@ class VideoDecoder:
             if reconStatus == 0:
                 self.reconDone = True
                 print("Receiving data")
-                if self.receive_data_from>0 and self.sec<self.receive_data_from:
-                  self.sec = self.receive_data_from
                 self.currentTime=self.sec
                 if self.advancedMode==False:
                   self.timer=(self.currentTime-self.previousTime)/4
                 else:
                   self.timer=(self.currentTime-self.previousTime)/2
+                if self.receive_data_from>0 and self.sec<self.receive_data_from:
+                  self.sec = self.receive_data_from
                 print("Detected timer: "+str(self.timer)+" sec")
                 print("Detected colors: ",self.colorRanges)
-                self.nextResumeTime= float(self.currentTime+(self.timer*1.25))
+                self.nextResumeTime= float(self.currentTime+(self.timer*2*1.25))
                 self.previousTime=self.currentTime
             elif minDistanceValid==False:
                 print("newHsv added")
